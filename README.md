@@ -21,5 +21,15 @@ The dataset provides comprehensive information about bird strikes on aircraft, o
 - • Documentation and changes: Document any modifications made to the fact table and provide clear explanations for the reasons behind those changes.
 - • Creative analysis and best practices: Apply creative thinking to address the project goals effectively, prioritizing scalability, performance, and avoiding overreliance on SQL GROUP BY or COUNT statements for analysis. Emphasize innovative approaches that can yield valuable insights from the data.
 
+## Structure
+**ERD:**
+
+<img align="center" height="340px" src="https://github.com/sohamthirty/PubMed-Data-Mining/blob/main/Images/ERD.png" alt="image" />
+
+**Star Schema:**
+
+<img align="center" height="340px" src="https://github.com/sohamthirty/PubMed-Data-Mining/blob/main/Images/StarSchema.png" alt="image" />
+
+
 ## Conclusion
 The SQL data analysis project on bird strike data covered essential tasks, including schema design, data extraction, and transformation. It utilized SQLite and MySQL to realize the schema and create a star schema for author facts. The project's focus on scalability, performance, and creative analysis provided valuable insights into bird strike incidents and their impact on aviation safety.
